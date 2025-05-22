@@ -4,7 +4,7 @@ public class CompressString {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		//count the characters in a string
 		
 		
 		String input="pooja";

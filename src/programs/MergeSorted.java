@@ -3,7 +3,7 @@ package programs;
 public class MergeSorted {
 	public static void main(String args[])
 	{
-		
+		//sort two arrays and merge
 		int a1[]= {2,1,4};
 		int a2[]= {90,1,23,3};
 		int i;

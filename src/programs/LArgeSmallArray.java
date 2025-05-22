@@ -3,7 +3,7 @@ package programs;
 public class LArgeSmallArray {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// lagest and smallest 
 		int a[]= {21,3,45,22,54,34};
 		int larger=a[0];
 		int smaller=a[0];

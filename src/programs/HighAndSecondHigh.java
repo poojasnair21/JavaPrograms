@@ -5,6 +5,8 @@ class HighAndSecondHigh {
 	
 	public static void main(String[] args) {
 	
+		
+		//highest and second highest
 	int a[]= {20,1,2,4,55,33,2};
 	
 	int l=a[0];

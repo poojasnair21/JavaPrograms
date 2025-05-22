@@ -4,6 +4,8 @@ public class ReverseMaxMin {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		//reverse the maximum and minimum character string here min=s and max=kottayam
 		String s="pooja s nair kottayam";
 		String[]str=s.split(" ");
 		int maxl=str[0].length();

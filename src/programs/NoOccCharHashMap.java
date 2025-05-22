@@ -13,6 +13,8 @@ package programs;
 		//int a[]= {22,3,3,1,4,5,9,4};
 			String a="pooja";
 		//Arrays.sort(a);
+			
+			//number of occurance of a character in a string using hashmap
 		Map<Character,Integer>map=new HashMap<>();
 		for(char ch:a.toCharArray())
 		{

@@ -4,7 +4,7 @@ public class MaxWordandMinWord {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		//longest and smallest string in a sentence
 		String s="my name is pooja from kottayam";
 		String[]str=s.split(" ");
 		int max=str[0].length();

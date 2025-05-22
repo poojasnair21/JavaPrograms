@@ -7,6 +7,8 @@ public class Amountsort {
 	public static void main(String[] args) {
 		
 		
+		//give some amount sort it and print it with "$"
+		//(interviewer expected the regular expressions, Pattern class and streams and lamda in Java 8
 		List<String> list=new ArrayList<>();
 		
 		list.add("$345");
@@ -36,7 +38,7 @@ public class Amountsort {
 		}
 		for(i=0;i<ar.length;i++)
 		{
-			System.out.println(ar[i]);
+			System.out.println("$"+ar[i]);
 		}
 	}
 

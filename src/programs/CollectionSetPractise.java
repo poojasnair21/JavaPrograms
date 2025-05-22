@@ -6,7 +6,7 @@ import java.util.*;
 public class CollectionSetPractise {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// practise collection set and its functions
 		Set<Integer> set=new HashSet<>();
 		List<Integer> list=new ArrayList<>();
 		TreeSet<Integer> treeset=new TreeSet<>();

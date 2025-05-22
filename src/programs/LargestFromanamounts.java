@@ -6,7 +6,7 @@ import java.util.List;
 public class LargestFromanamounts {
 	public static void main(String[] args) {
 		
-	
+	//largest from amounts
 		List<String> list=new ArrayList<>();
 		
 		list.add("$345");

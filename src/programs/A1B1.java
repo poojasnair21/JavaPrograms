@@ -4,6 +4,8 @@ public class A1B1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		//input A2B2C2 output AABBCC input A1B1C1 output ABC
 		String s="A2B2C2";
 		StringBuilder ss=new StringBuilder();
 		int i=0,j=0;

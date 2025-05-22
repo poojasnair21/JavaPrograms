@@ -2,7 +2,10 @@ package programs;
 
 public class MaxandMinLengthOfstrings {
 	public static void main(String args[])
-	{	String s1="i am from kottayam";
+	{
+		
+		//longest and smallest length in a sentence
+		String s1="i am from kottayam";
 	String[]words=s1.split(" ");
 	String max=words[0];
 	String min=words[0];

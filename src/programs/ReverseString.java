@@ -3,7 +3,7 @@ package programs;
 public class ReverseString {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// here used loop is decremenrt they also cask to change to increment for(int i=0;i<s1.length();i++)
 		String s1="pooja";
 		
 		String rev="";

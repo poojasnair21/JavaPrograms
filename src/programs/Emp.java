@@ -6,7 +6,7 @@ import java.util.Comparator;
 import java.util.List;
 
 	
-	
+	//comparable and comparator practise
 
 
 public class Emp implements Comparable<Emp> {

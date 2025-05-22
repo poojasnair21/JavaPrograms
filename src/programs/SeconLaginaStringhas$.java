@@ -7,6 +7,8 @@ public class SeconLaginaStringhas$ {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		//in this string integers present after "$" find the largest amoung that digits
 		String s="poo$43543658951$ja";
 		//set
 //		TreeSet<Integer> set=new TreeSet<>();

@@ -16,6 +16,6 @@ public class DuplicateString {
 //			}
 //		}
 //
-		String s="pooja nair";
-		String a=s.split(" ");
-		
+//		String s="pooja nair";
+//		String a=s.split(" ");
+	}}

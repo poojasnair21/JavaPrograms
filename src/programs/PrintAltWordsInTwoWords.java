@@ -3,7 +3,7 @@ package programs;
 public class PrintAltWordsInTwoWords {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// print alternative words in two strings output pnoaoijra
 		String input="pooja nair";
 		
 		int count=input.length();

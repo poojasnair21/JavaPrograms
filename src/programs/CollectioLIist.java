@@ -8,6 +8,9 @@ public class CollectioLIist {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		//practising collections
+		
 		List <Integer> a=new ArrayList();
 		a.add(10);a.add(110);a.add(50);a.add(80);
 		
